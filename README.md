@@ -1,7 +1,7 @@
 # ReactTutorialLibrary
 This houses all the React projects from the react course I'm taking on Udemy
 
-##Getting Started with Create React App
+## Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
 Available Scripts
